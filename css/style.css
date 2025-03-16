@@ -41,8 +41,6 @@
 
 .content {
     background-color: #FBFBFB;
-    width: 586px;
-    height: 250px;
 }
 
 .content__img {
@@ -61,7 +59,7 @@
     text-align: right;
     padding-right: 30px;
     color: #3D3D3D;
-    padding: 37px 30px 45px 0;
+    padding: 37px 30px 45px 259px;
 }
 
 .content__title {
